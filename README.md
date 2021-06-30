@@ -4,6 +4,7 @@
  1. React
  2. Tailwind
  3. Jest
+ 4. docxtemplater pizzip
 
 
  # Getting Started with Create React App
